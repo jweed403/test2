@@ -130,16 +130,16 @@
     <value>Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.</value>
   </data>
   <data name="NewItemTitle" xml:space="preserve">
-    <value>Item Title: {0}</value>
+    <value>$</value>
   </data>
   <data name="Pivot.Title" xml:space="preserve">
-    <value>MY APPLICATION</value>
+    <value>Project</value>
   </data>
   <data name="PivotItem1.Header" xml:space="preserve">
-    <value>first</value>
+    <value>Timeline</value>
   </data>
   <data name="PivotItem2.Header" xml:space="preserve">
-    <value>second</value>
+    <value>Settings</value>
   </data>
   <data name="SecondaryButton1.Label" xml:space="preserve">
     <value>secondary command 1</value>

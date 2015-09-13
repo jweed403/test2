@@ -164,5 +164,10 @@ namespace FirstRealProject
         }
 
         #endregion
+
+        private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

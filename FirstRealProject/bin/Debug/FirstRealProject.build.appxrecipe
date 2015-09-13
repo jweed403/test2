@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CLAROQUEPC</Machine>
+    <WindowsUser>Julie</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>680789b1-df90-4c7b-a38f-c8dd5064b7ac</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\bin\Debug\FirstRealProject.exe">
+      <PackagePath>FirstRealProject.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\bin\Debug\FirstRealProject.xr.xml">
+      <PackagePath>FirstRealProject.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\bin\Debug\PivotPage.xbf">
+      <PackagePath>PivotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\julie\documents\visual studio 2015\Projects\FirstRealProject\FirstRealProject\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
